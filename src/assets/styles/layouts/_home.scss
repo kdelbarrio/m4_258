@@ -40,7 +40,7 @@ body {
     }
 
     @media (max-width: $mqMaxWidth) {
-      font-size: 1.5em;
+      font-size: 1.7em;
     }
 }
 
@@ -48,7 +48,6 @@ header.home {
   background:url(../images/home_abaltzisketa_aralar_1800.webp) no-repeat center;
 
   @media (max-width: $mqMaxWidth) {
-    /*width: 800px;*/
     background: none;
     background-color:#000;
   }
